@@ -12,4 +12,6 @@ vehicle reidentification model
 
 To train or validate the model, please use `train.py` and modify the `mode` parameter in the `opt` folder as needed.
 
+## Contact
 
+If you have any questions, feel free to contact me for further discussion.
